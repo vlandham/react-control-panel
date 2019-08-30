@@ -1,0 +1,18 @@
+[
+  {
+    "id": "name",
+    "label": "Name",
+    "level": "Nominal",
+    "description": "",
+    "searchBy": true,
+    "filterBy": true
+  },
+  {
+    "id": "value",
+    "label": "Value",
+    "level": "Nominal",
+    "description": "",
+    "searchBy": true,
+    "filterBy": false
+  }
+]

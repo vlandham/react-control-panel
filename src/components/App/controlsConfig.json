@@ -1,0 +1,23 @@
+{
+  "view": [
+    {
+      "id": "colorBy",
+      "label": "Color by",
+      "values": [
+        {
+          "value": "name",
+          "label": "name"
+        },
+        {
+          "value": "value",
+          "label": "value"
+        },
+        {
+          "value": "other",
+          "label": "other"
+        }
+      ]
+    }
+  ],
+  "showFilter": true
+}
